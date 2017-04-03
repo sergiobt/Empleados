@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Empleados</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_nuevo_empleado">Crear Nuevo Empleado</string>
+    <string name="title_activity_ver_empleado">Datos del Empleado</string>
+    <string name="intro_nombre">Introduzca el Nombre</string>
+    <string name="campo_nombre">Nombre</string>
+    <string name="nombre">Nombre:</string>
+    <string name="intro_cargo">Introduzca el Cargo</string>
+    <string name="campo_cargo">Cargo</string>
+    <string name="cargo">Cargo:</string>
+    <string name="intro_telefono">Introduzca el Telefono</string>
+    <string name="campo_telefono">Telefono</string>
+    <string name="telefono">Telefono:</string>
+    <string name="intro_correo">Introduzca el Correo</string>
+    <string name="campo_correo">Cuenta de Correo</string>
+    <string name="correo">Correo:</string>
+    <string name="btnAgregarEmpleado">Agregar Nuevo Empleado</string>
+    <string name="btnAnadir">Añadir</string>
+    <string name="btnLlamar">Llamar Empleado</string>
+    <string name="btnEnviar">Enviar Email</string>
+    <string name="btnBorrar">Borrar Empleado</string>
+</resources>
